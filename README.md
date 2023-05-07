@@ -13,8 +13,8 @@ username:''
 password:''
 ```
 
-###Linux
-配置通windos，直接使用以下命令即可
+### Linux
+配置同windos，直接使用以下命令即可
 赋予权限
 ```
  chmod a+x FuckCampusNet.sh
