@@ -18,7 +18,7 @@ password:''
 
 1. FuckCampusNet.py 后缀改为 FuckCampusNet.pyw
 2. 右键FuckCampusNet.pyw -> 属性 -> 打开方式 -> 更改 指向你的pythonw路径[例如 ‪D:\Python3.8\pythonw.exe]
-3. Win+R 键入 shell::startup 
+3. Win+R 键入 shell:startup 
 4. 右键新建快捷方式 指向.pyw文件
 
 
